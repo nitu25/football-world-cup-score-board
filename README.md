@@ -1,9 +1,11 @@
 # FootBallScoreBoard
 This repository allows tracking and updating score board for football.
 
+Java: 17
+Gradle: Build tool
 
 # Checkout repo
-https://github.com/bring/ph-nbm-notification-processor-v1
+https://github.com/nitu25/football-world-cup-score-board.git
 
 # To build
 ./gradle build
